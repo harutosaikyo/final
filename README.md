@@ -5,6 +5,6 @@
 
 氏名 : 渡邉晴杜
 
-システム名 : 楽曲管理
+システム名 :　おすすめの楽曲紹介システム
 
-URL : 
+URL : https://github.com/harutosaikyo/final
